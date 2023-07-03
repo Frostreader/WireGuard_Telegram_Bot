@@ -33,7 +33,7 @@ QR code generator: qrencode<br/>
 1. Clone this repo and go to project folder<br/>
 
    ```bash
-   git clone https://github.com/PheeZz/wireguard-bot.git && cd wireguard-bot
+   git clone https://github.com/Frostreader/WireGuard_Telegram_Bot.git && cd WireGuard_Telegram_Bot
    ```
 
 2. Setup your virtualenv<br/>
