@@ -1,6 +1,6 @@
 <h1 align="center">Frostreader Wireguard Bot</h1>
 <p align="center">
-<img src = "https://github.com/PheeZz/wireguard-bot/blob/master/image/logo_wide.png?raw=true" width = 50%>
+<img src = "https://github.com/Frostreader/WireGuard_Telegram_Bot.git" width = 50%>
 </p>
 
 ## Contents tree:
